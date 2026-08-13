@@ -66,14 +66,14 @@ Full Loom video series covering each phase and sub-step end to end.
 
 | Video | Phase | Description |
 |-------|-------|-------------|
-| Phase 1 #1 | Joiner | Carl Johnson user created | https://www.loom.com/share/8c687e7935a24994ad9341e44310b13c
-| Phase 1 #2 | Joiner | Niko Bellic user created | https://www.loom.com/share/a2ef0e092379434e95ce86157bb23294
-| Phase 1 #3 | Joiner | Assign users to security groups in Entra ID | https://www.loom.com/share/298224535e3942c5b684943df22a3533
-| Phase 1 #4 | Joiner | Adding Carl to the Marketing Group | https://www.loom.com/share/de0e1606a3054d8ea8d3c080dfdf1777
-| Phase 1 #5 | Joiner | Assigning a license to the users | https://www.loom.com/share/df05b1b318ec4137bcb362155cf5a4f7
-| Phase 2 #1 | Mover | Niko's promotion to IT Manager | https://www.loom.com/share/aa12fc5201f64d219ea1347330418687
-| Phase 2 #2 | Mover | Creating and adding Niko to elevated group | https://www.loom.com/share/a85376859dcf4e96858955e53b6c8a07
-| Phase 3 #1 | Leaver | Offboarding of Niko Bellic | https://www.loom.com/share/43d2c26a9941460788860e1dfdf32513
+| [Phase 1 #1 - Carl Johnson User Created](https://www.loom.com/share/8c687e7935a24994ad9341e44310b13c) | Joiner | Carl Johnson user created |
+| [Phase 1 #2 - Niko Bellic User Created](https://www.loom.com/share/a2ef0e092379434e95ce86157bb23294) | Joiner | Niko Bellic user created |
+| [Phase 1 #3 - Assign Users to Security Groups](https://www.loom.com/share/298224535e3942c5b684943df22a3533) | Joiner | Assign users to security groups in Entra ID |
+| [Phase 1 #4 - Adding Carl to the Marketing Group](https://www.loom.com/share/de0e1606a3054d8ea8d3c080dfdf1777) | Joiner | Adding Carl to the Marketing Group |
+| [Phase 1 #5 - Assigning a License to the Users](https://www.loom.com/share/df05b1b318ec4137bcb362155cf5a4f7) | Joiner | Assigning a license to the users |
+| [Phase 2 #1 - Niko's Promotion to IT Manager](https://www.loom.com/share/aa12fc5201f64d219ea1347330418687) | Mover | Niko's promotion to IT Manager |
+| [Phase 2 #2 - Creating and Adding Niko to Elevated Group](https://www.loom.com/share/a85376859dcf4e96858955e53b6c8a07) | Mover | Creating and adding Niko to elevated group |
+| [Phase 3 #1 - Offboarding of Niko Bellic](https://www.loom.com/share/43d2c26a9941460788860e1dfdf32513) | Leaver | Offboarding of Niko Bellic |
 
 ---
 
