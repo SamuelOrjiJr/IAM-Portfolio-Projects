@@ -14,6 +14,7 @@ Hands-on Identity and Access Management projects built in a live Microsoft Entra
 | 2 | Okta SSO and SAML | Okta tenant setup, signup troubleshooting (MX record root cause), and a line-by-line SAML assertion breakdown | Write-up coming |
 | 3 | [Risk-Based Conditional Access](Project-3-Risk-Based-Conditional-Access/) | Named locations, sign-in risk conditions, grant and session controls, Report-only and What If testing, sign-in log troubleshooting | Complete |
 | 4 | [Privileged Identity Management](Project-4-Privileged-Identity-Management/) | Eligible role assignment, approval workflow, just-in-time activation, PIM audit trail, and an access review that removed standing access | Complete |
+| 5 | [App Registrations and Consent](Project-5-App-Registrations/) | App object vs service principal, delegated vs application permissions, admin consent, app roles in tokens, Assignment required, audit log investigation | Complete |
 
 ---
 
